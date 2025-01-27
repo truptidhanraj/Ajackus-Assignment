@@ -4,6 +4,7 @@ Project Overview
 This project is a user list application that displays a list of users, allows new users to be added, and existing users to be edited and deleted.
 
 Project Structure 
+
 public: Public folder containing static files.
 src: Source folder containing project code.
 components: Components folder containing React components.
@@ -11,9 +12,11 @@ App.js: Main application component.
 index.js: Project entry point.
 
 Data Fetching 
+
 We used the JSONPlaceholder API to fetch data for this assignment. 
 
 React Hooks 
+
 We utilized the following React Hooks in this project:
 1.useState: To manage state in functional components.
 2.useEffect: To handle side effects, such as fetching data from API.
