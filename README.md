@@ -12,7 +12,7 @@ Component Structure
 - _App Component_: The main wrapper that holds all child components.
 - _UserList Component_: Displays the list of users.
 - _UserForm Component_: Handles adding and editing user details.
-- _ErrorBoundary Component_: Catches errors and displays user-friendly messages.
+  
 
 State Management
 - User Data: Stores the list of users fetched from the API.
