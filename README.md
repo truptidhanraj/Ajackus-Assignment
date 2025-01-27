@@ -10,6 +10,14 @@ components: Components folder containing React components.
 App.js: Main application component.
 index.js: Project entry point.
 
+Data Fetching 
+We used the JSONPlaceholder API to fetch data for this assignment. 
+
+React Hooks 
+We utilized the following React Hooks in this project:
+1.useState: To manage state in functional components.
+2.useEffect: To handle side effects, such as fetching data from API.
+
 Project Setup
 1. Create a new React project using `create-react-app`.
 2. Install necessary packages, used `fetch` (for API calls) and `react-router-dom` (for navigation).
